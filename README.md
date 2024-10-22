@@ -48,7 +48,7 @@ To get a local copy up and running follow these steps.
       
   -->Installation
      Clone the repo
-     git clone 
+     git clone https://github.com/Krisha149/Recipe-Book-
      Install NPM packages
      cd react/homemakerapi
      npm install
