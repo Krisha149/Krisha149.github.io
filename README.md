@@ -41,6 +41,9 @@ All forms have error highlighting with relevant messages,
 
 Error highlighting
 
+![demo-errors](https://github.com/user-attachments/assets/2d3c2913-701d-4b16-b899-8f4a7921feb3)
+
+
 This is achieved by response from the API, not checked manually using JavaScript.
 
 ***Getting Started:***
